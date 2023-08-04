@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fantacalcio-vercelli/public/index.html/static/css/main.073c9b0a.css",
-    "main.js": "/fantacalcio-vercelli/public/index.html/static/js/main.ea9f60ae.js",
+    "main.css": "/fantacalcio-vercelli/public/index.html/static/css/main.07e2c87b.css",
+    "main.js": "/fantacalcio-vercelli/public/index.html/static/js/main.86b6a79e.js",
     "static/js/787.80c57787.chunk.js": "/fantacalcio-vercelli/public/index.html/static/js/787.80c57787.chunk.js",
-    "static/media/logo.svg": "/fantacalcio-vercelli/public/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/league-icon.jpg": "/fantacalcio-vercelli/public/index.html/static/media/league-icon.05b89147eab3de3c8fb2.jpg",
     "index.html": "/fantacalcio-vercelli/public/index.html/index.html",
-    "main.073c9b0a.css.map": "/fantacalcio-vercelli/public/index.html/static/css/main.073c9b0a.css.map",
-    "main.ea9f60ae.js.map": "/fantacalcio-vercelli/public/index.html/static/js/main.ea9f60ae.js.map",
+    "main.07e2c87b.css.map": "/fantacalcio-vercelli/public/index.html/static/css/main.07e2c87b.css.map",
+    "main.86b6a79e.js.map": "/fantacalcio-vercelli/public/index.html/static/js/main.86b6a79e.js.map",
     "787.80c57787.chunk.js.map": "/fantacalcio-vercelli/public/index.html/static/js/787.80c57787.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ea9f60ae.js"
+    "static/css/main.07e2c87b.css",
+    "static/js/main.86b6a79e.js"
   ]
 }
